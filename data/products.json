@@ -96,7 +96,7 @@
   "title": "Crutch Feet Cap Rubber",
   "price": 9.99,
   "description": "Durable anti-slip rubber crutch feet cap designed to improve stability and reduce impact shocks. Provides strong floor grip for safe indoor and outdoor use.",
-  "category": "crutch accessories",
+  "category": "men",
   "image": "https://crutch-api.onrender.com/img/5.jpeg",
   "rating": {
     "rate": 4.5,
@@ -134,7 +134,7 @@
   "title": "Forearm Crutch Bag (Small)",
   "price": 12.99,
   "description": "Compact storage pouch for forearm crutches. Ideal for holding keys, phone, wallet, or medication. Simple strap attachment for convenience.",
-  "category": "crutch accessories",
+  "category": "men",
   "image": "https://crutch-api.onrender.com/img/7.jpeg",
   "rating": {
     "rate": 4.3,
@@ -155,7 +155,7 @@
   "title": "Forearm Crutch Bag (Large)",
   "price": 18.99,
   "description": "Large multi-pocket forearm crutch storage bag. Ideal for carrying personal essentials during mobility. Strong Velcro straps for secure mounting.",
-  "category": "crutch accessories",
+  "category": "men",
   "image": "https://crutch-api.onrender.com/img/8.jpeg",
   "rating": {
     "rate": 4.6,
@@ -176,7 +176,7 @@
   "title": "Crutch Cuff Bundle",
   "price": 24.99,
   "description": "Comfortable crutch cuff set designed for forearm crutches. Provides improved grip, arm support, and stability during walking.",
-  "category": "crutch accessories",
+  "category": "women",
   "image": "https://crutch-api.onrender.com/img/9.jpeg",
   "rating": {
     "rate": 4.4,
@@ -196,7 +196,7 @@
   "title": "Forearm Crutch Pad",
   "price": 11.99,
   "description": "Soft, ergonomic padding for forearm crutches. Reduces pressure on arms and improves comfort over long walking durations.",
-  "category": "crutch accessories",
+  "category": "women",
   "image": "https://crutch-api.onrender.com/img/10.jpeg",
   "rating": {
     "rate": 4.5,
@@ -217,7 +217,7 @@
     "title": "Waterproof Crutch Covers",
     "price": 15.99,
     "description": "Durable waterproof covers to protect your crutches from rain, snow, and moisture. Easy slip-on design with secure straps.",
-    "category": "accessories",
+    "category": "men",
     "image": "https://images.unsplash.com/photo-1585076799956-184ec95c492e?w=400",
     "rating": {
       "rate": 4.2,
@@ -234,7 +234,7 @@
     "title": "Designer Fashion Crutches",
     "price": 129.99,
     "description": "Stylish crutches with customizable skins and patterns. Express yourself while staying mobile. Multiple design options available.",
-    "category": "fashion crutches",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400",
     "rating": {
       "rate": 4.6,
@@ -252,7 +252,7 @@
     "title": "Medical Grade Underarm Crutches",
     "price": 54.99,
     "description": "Hospital-quality underarm crutches with anti-microbial coating. Designed for clinical use with enhanced durability and hygiene features.",
-    "category": "underarm crutches",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400",
     "rating": {
       "rate": 4.8,
@@ -270,7 +270,7 @@
     "title": "Arthritis-Friendly Ergonomic Crutches",
     "price": 139.99,
     "description": "Specially designed for users with arthritis or joint pain. Features extra-soft grips, ergonomic angles, and reduced pressure points.",
-    "category": "forearm crutches",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400",
     "rating": {
       "rate": 4.9,
@@ -288,7 +288,7 @@
     "title": "Ultra-Compact Travel Crutches",
     "price": 79.99,
     "description": "Smallest folding crutches on the market. Fits in carry-on luggage. Perfect for frequent travelers who need reliable mobility support.",
-    "category": "portable crutches",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1565030098324-89ecf7ef38c7?w=400",
     "rating": {
       "rate": 4.4,
@@ -306,7 +306,7 @@
     "title": "Crutch Storage Bag",
     "price": 22.99,
     "description": "Premium carrying bag for crutch storage and transport. Multiple pockets for accessories, adjustable shoulder strap, water-resistant material.",
-    "category": "accessories",
+    "category": "men",
     "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
     "rating": {
       "rate": 4.3,
@@ -323,7 +323,7 @@
     "title": "Shock-Absorbing Crutch Tips",
     "price": 29.99,
     "description": "Advanced shock-absorbing tips that reduce impact by up to 40%. Extends crutch life and reduces arm fatigue. Set of 2.",
-    "category": "accessories",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1603218271732-b5ca5c4f7d5d?w=400",
     "rating": {
       "rate": 4.6,
@@ -340,7 +340,7 @@
     "title": "Pediatric Crutches with Fun Designs",
     "price": 39.99,
     "description": "Colorful crutches designed specifically for younger children. Features cartoon characters, adjustable height, and safety padding.",
-    "category": "youth crutches",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400",
     "rating": {
       "rate": 4.7,
@@ -358,7 +358,7 @@
     "title": "Professional Athlete Crutches",
     "price": 249.99,
     "description": "High-performance crutches used by professional athletes. Carbon fiber construction, maximum energy return, and precision engineering.",
-    "category": "forearm crutches",
+    "category": "men",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400",
     "rating": {
       "rate": 5.0,
