@@ -1,182 +1,217 @@
 [
   {
     "id": 1,
-    "title": "Standard Aluminum Underarm Crutches",
-    "price": 29.99,
-    "description": "Lightweight aluminum underarm crutches with comfortable hand grips and underarm pads. Adjustable height from 4'8\" to 6'2\". Weight capacity 300 lbs.",
-    "category": "underarm crutches",
-    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400",
+    "title": "Smart Crutch - Base Model (Affordable Utility)",
+    "price": 89.99,
+    "description": "A reliable and affordable smart crutch with essential support features. Includes weight sensor with height optimization, PPG heart rate monitoring, fall detection, shock absorber, and integrated headlight & tail light for safe movement.",
+    "category": "smart crutch",
+    "image": "https://crutch-api.onrender.com/img/1.jpeg",
     "rating": {
-      "rate": 4.5,
-      "count": 248
+      "rate": 4.4,
+      "count": 180
     },
     "specifications": {
-      "material": "Aluminum",
-      "weight": "2.5 lbs per crutch",
-      "heightRange": "4'8\" - 6'2\"",
-      "weightCapacity": "300 lbs"
+      "features": [
+        "Custom trigger button",
+        "Weight sensor + height optimization guidance",
+        "Headlight + tail light",
+        "PPG heart rate sensor",
+        "Fall detection",
+        "Shock absorber"
+      ],
+      "targetUsers": "Elders, hospitals, short-term injury patients"
     }
   },
   {
     "id": 2,
-    "title": "Ergonomic Forearm Crutches - Pair",
-    "price": 89.99,
-    "description": "Premium ergonomic forearm crutches with shock-absorbing tips and adjustable cuff design. Perfect for long-term use and increased mobility.",
-    "category": "forearm crutches",
-    "image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=400",
+    "title": "Smart Crutch - Mid Model (Smart & Useful)",
+    "price": 149.99,
+    "description": "An advanced smart crutch featuring dual-chamber LED, auto-light using LDR, a 1.9-inch non-touch display, and three tactile navigation buttons. Displays real-time vitals and posture monitoring for enhanced rehabilitation.",
+    "category": "smart crutch",
+    "image": "https://crutch-api.onrender.com/img/2.jpeg",
     "rating": {
-      "rate": 4.8,
-      "count": 156
+      "rate": 4.6,
+      "count": 220
     },
     "specifications": {
-      "material": "Carbon Fiber Composite",
-      "weight": "1.8 lbs per crutch",
-      "heightRange": "4'10\" - 6'6\"",
-      "weightCapacity": "350 lbs"
+      "includesBaseModel": true,
+      "additionalFeatures": [
+        "Dual-chamber LED",
+        "Auto-light (LDR)",
+        "1.9-inch non-touch display",
+        "Three navigational tactile buttons",
+        "On-screen vitals + posture info"
+      ],
+      "targetUsers": "Rehabilitation centers, long-term crutch users"
     }
   },
   {
     "id": 3,
-    "title": "Folding Portable Crutches",
-    "price": 45.99,
-    "description": "Compact folding crutches that fit easily in a bag or suitcase. Ideal for travel and storage. Quick-release folding mechanism.",
-    "category": "portable crutches",
-    "image": "https://images.unsplash.com/photo-1579154491364-9b7c8e5d7c8e?w=400",
+    "title": "Smart Crutch - Top Model (Premium)",
+    "price": 229.99,
+    "description": "Premium flagship variant with a 2.8-inch touchscreen, soft-touch cushioning, foldable mini-chair, and kinetic charger generator. Features advanced UI dashboards and high-performance dual-chamber LED for professional & field use.",
+    "category": "smart crutch",
+    "image": "https://crutch-api.onrender.com/img/3.jpeg",
     "rating": {
-      "rate": 4.3,
-      "count": 89
+      "rate": 4.8,
+      "count": 310
     },
     "specifications": {
-      "material": "Aluminum Alloy",
-      "weight": "2 lbs per crutch",
-      "heightRange": "5'0\" - 6'0\"",
-      "weightCapacity": "250 lbs"
+      "includesMidModel": true,
+      "premiumFeatures": [
+        "2.8-inch touchscreen",
+        "Premium soft-touch cushioning",
+        "Foldable mini-chair",
+        "Movement-based generator for recharge",
+        "Advanced UI / multiple dashboards",
+        "High-performance dual-chamber LED"
+      ],
+      "targetUsers": "High-end medical devices, defense, field workers, premium customers"
     }
   },
   {
     "id": 4,
-    "title": "Heavy-Duty Bariatric Crutches",
-    "price": 119.99,
-    "description": "Extra-strong crutches designed for bariatric patients. Reinforced frame with wider hand grips and underarm pads for maximum support and comfort.",
-    "category": "bariatric crutches",
-    "image": "https://images.unsplash.com/photo-1582719366274-e8588d2cebac?w=400",
+    "title": "Smart Crutch - Custom Model (Flexible Configuration)",
+    "price": 499,
+    "description": "Customizable smart crutch variant where users can select any combination of features from all models. Fully tailored design for personal, medical, or organizational needs.",
+    "category": "smart crutch",
+    "image": "https://crutch-api.onrender.com/img/4.jpeg",
     "rating": {
       "rate": 4.7,
-      "count": 72
+      "count": 150
     },
     "specifications": {
-      "material": "Reinforced Steel",
-      "weight": "4 lbs per crutch",
-      "heightRange": "5'4\" - 6'8\"",
-      "weightCapacity": "500 lbs"
+      "customizationOptions": [
+        "Choose features from Base, Mid, or Premium models",
+        "Flexible display options",
+        "Adjustable lighting modules",
+        "Optional health and posture sensors",
+        "Custom cushioning and ergonomic addons"
+      ],
+      "targetUsers": "Clinics, organizations, users needing personalized smart mobility aids"
     }
   },
   {
-    "id": 5,
-    "title": "Youth Adjustable Crutches",
-    "price": 34.99,
-    "description": "Specially designed crutches for children and teenagers. Fun colors available, lightweight construction, and easy height adjustment.",
-    "category": "youth crutches",
-    "image": "https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?w=400",
-    "rating": {
-      "rate": 4.6,
-      "count": 134
-    },
-    "specifications": {
-      "material": "Aluminum",
-      "weight": "1.5 lbs per crutch",
-      "heightRange": "3'8\" - 5'2\"",
-      "weightCapacity": "180 lbs"
-    }
+  "id": 5,
+  "title": "Crutch Feet Cap Rubber",
+  "price": 9.99,
+  "description": "Durable anti-slip rubber crutch feet cap designed to improve stability and reduce impact shocks. Provides strong floor grip for safe indoor and outdoor use.",
+  "category": "crutch accessories",
+  "image": "https://crutch-api.onrender.com/img/5.jpeg",
+  "rating": {
+    "rate": 4.5,
+    "count": 320
   },
-  {
-    "id": 6,
-    "title": "Platform Crutches with Forearm Support",
-    "price": 149.99,
-    "description": "Medical-grade platform crutches with full forearm support. Ideal for patients who cannot bear weight on their hands or wrists.",
-    "category": "platform crutches",
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400",
-    "rating": {
-      "rate": 4.9,
-      "count": 45
-    },
-    "specifications": {
-      "material": "Aluminum with Padded Platform",
-      "weight": "3.5 lbs per crutch",
-      "heightRange": "5'0\" - 6'4\"",
-      "weightCapacity": "300 lbs"
-    }
+  "specifications": {
+    "material": "High-density rubber",
+    "compatibility": "Fits most underarm & forearm crutches",
+    "features": [
+      "Anti-slip base",
+      "Shock absorption",
+      "Wear-resistant"
+    ]
+  }
+},
+{
+  "id": 6,
+  "title": "ESP32 Module with USB Cable",
+  "price": 14.99,
+  "description": "High-performance ESP32 microcontroller with integrated WiFi & Bluetooth. Includes USB cable for programming—ideal for smart crutch electronics or IoT upgrades.",
+  "category": "electronics",
+  "image": "https://crutch-api.onrender.com/img/6.jpeg",
+  "rating": {
+    "rate": 4.7,
+    "count": 410
   },
-  {
-    "id": 7,
-    "title": "Smart Crutches with LED Lighting",
-    "price": 199.99,
-    "description": "Innovative crutches with built-in LED lights for nighttime visibility and safety. USB rechargeable with automatic motion sensors.",
-    "category": "smart crutches",
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400",
-    "rating": {
-      "rate": 4.4,
-      "count": 67
-    },
-    "specifications": {
-      "material": "Aluminum with Electronics",
-      "weight": "2.8 lbs per crutch",
-      "heightRange": "5'0\" - 6'3\"",
-      "weightCapacity": "280 lbs"
-    }
+  "specifications": {
+    "chipset": "ESP32 Dual-core 240MHz",
+    "connectivity": "WiFi 2.4GHz, Bluetooth 4.2",
+    "includes": "ESP32 board + USB programming cable"
+  }
+},
+{
+  "id": 7,
+  "title": "Forearm Crutch Bag (Small)",
+  "price": 12.99,
+  "description": "Compact storage pouch for forearm crutches. Ideal for holding keys, phone, wallet, or medication. Simple strap attachment for convenience.",
+  "category": "crutch accessories",
+  "image": "https://crutch-api.onrender.com/img/7.jpeg",
+  "rating": {
+    "rate": 4.3,
+    "count": 190
   },
-  {
-    "id": 8,
-    "title": "Ergonomic Gel Pad Replacement Set",
-    "price": 19.99,
-    "description": "Premium gel padding replacement kit for underarm and hand grip areas. Compatible with most standard crutches. Reduces pressure and discomfort.",
-    "category": "accessories",
-    "image": "https://images.unsplash.com/photo-1584462506966-c6dd5c8f1f45?w=400",
-    "rating": {
-      "rate": 4.7,
-      "count": 312
-    },
-    "specifications": {
-      "material": "Medical-Grade Gel",
-      "weight": "0.3 lbs",
-      "compatibility": "Universal fit"
-    }
+  "specifications": {
+    "material": "Water-resistant nylon",
+    "size": "Small",
+    "features": [
+      "Easy strap mount",
+      "Lightweight",
+      "Zippered pocket"
+    ]
+  }
+},
+{
+  "id": 8,
+  "title": "Forearm Crutch Bag (Large)",
+  "price": 18.99,
+  "description": "Large multi-pocket forearm crutch storage bag. Ideal for carrying personal essentials during mobility. Strong Velcro straps for secure mounting.",
+  "category": "crutch accessories",
+  "image": "https://crutch-api.onrender.com/img/8.jpeg",
+  "rating": {
+    "rate": 4.6,
+    "count": 230
   },
-  {
-    "id": 9,
-    "title": "All-Terrain Crutch Tips - Set of 4",
-    "price": 24.99,
-    "description": "Heavy-duty rubber tips designed for all surfaces including ice, snow, and rough terrain. Enhanced grip and stability in any condition.",
-    "category": "accessories",
-    "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400",
-    "rating": {
-      "rate": 4.5,
-      "count": 189
-    },
-    "specifications": {
-      "material": "Heavy-Duty Rubber",
-      "weight": "0.5 lbs set",
-      "compatibility": "Fits most crutches"
-    }
+  "specifications": {
+    "material": "Premium oxford fabric",
+    "size": "Large",
+    "features": [
+      "Multiple compartments",
+      "Reinforced straps",
+      "Durable zipper"
+    ]
+  }
+},
+{
+  "id": 9,
+  "title": "Crutch Cuff Bundle",
+  "price": 24.99,
+  "description": "Comfortable crutch cuff set designed for forearm crutches. Provides improved grip, arm support, and stability during walking.",
+  "category": "crutch accessories",
+  "image": "https://crutch-api.onrender.com/img/9.jpeg",
+  "rating": {
+    "rate": 4.4,
+    "count": 160
   },
-  {
-    "id": 10,
-    "title": "Spring-Assisted Forearm Crutches",
-    "price": 179.99,
-    "description": "Advanced forearm crutches with spring-assisted mechanism that reduces impact and strain. Ideal for active users and long-distance mobility.",
-    "category": "forearm crutches",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400",
-    "rating": {
-      "rate": 4.9,
-      "count": 98
-    },
-    "specifications": {
-      "material": "Carbon Fiber with Spring System",
-      "weight": "2.2 lbs per crutch",
-      "heightRange": "5'0\" - 6'6\"",
-      "weightCapacity": "320 lbs"
-    }
+  "specifications": {
+    "material": "Soft EVA + reinforced plastic",
+    "compatibility": "Forearm crutches",
+    "features": [
+      "Sweat-resistant padding",
+      "Improved arm stability"
+    ]
+  }
+},
+{
+  "id": 10,
+  "title": "Forearm Crutch Pad",
+  "price": 11.99,
+  "description": "Soft, ergonomic padding for forearm crutches. Reduces pressure on arms and improves comfort over long walking durations.",
+  "category": "crutch accessories",
+  "image": "https://crutch-api.onrender.com/img/10.jpeg",
+  "rating": {
+    "rate": 4.5,
+    "count": 275
   },
+  "specifications": {
+    "material": "Memory foam + soft fabric",
+    "features": [
+      "Sweat-absorbent",
+      "Pressure reduction",
+      "Easy installation"
+    ]
+  }
+}
+,
   {
     "id": 11,
     "title": "Waterproof Crutch Covers",

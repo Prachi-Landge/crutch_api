@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const path = require('path');   // 👉 ADD THIS
 require('dotenv').config();
 
 const app = express();
@@ -8,6 +9,9 @@ const PORT = process.env.PORT || 3000;
 // Middleware
 app.use(cors());
 app.use(express.json());
+
+// 👉 SERVE IMG FOLDER AS STATIC FILES
+app.use('/img', express.static(path.join(__dirname, 'img')));
 
 // Routes
 const productsRoutes = require('./routes/products');
