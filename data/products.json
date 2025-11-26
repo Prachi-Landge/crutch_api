@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "title": "Standard Aluminum Underarm Crutches",
+    "price": 29.99,
+    "description": "Lightweight aluminum underarm crutches with comfortable hand grips and underarm pads. Adjustable height from 4'8\" to 6'2\". Weight capacity 300 lbs.",
+    "category": "underarm crutches",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400",
+    "rating": {
+      "rate": 4.5,
+      "count": 248
+    },
+    "specifications": {
+      "material": "Aluminum",
+      "weight": "2.5 lbs per crutch",
+      "heightRange": "4'8\" - 6'2\"",
+      "weightCapacity": "300 lbs"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Ergonomic Forearm Crutches - Pair",
+    "price": 89.99,
+    "description": "Premium ergonomic forearm crutches with shock-absorbing tips and adjustable cuff design. Perfect for long-term use and increased mobility.",
+    "category": "forearm crutches",
+    "image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=400",
+    "rating": {
+      "rate": 4.8,
+      "count": 156
+    },
+    "specifications": {
+      "material": "Carbon Fiber Composite",
+      "weight": "1.8 lbs per crutch",
+      "heightRange": "4'10\" - 6'6\"",
+      "weightCapacity": "350 lbs"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Folding Portable Crutches",
+    "price": 45.99,
+    "description": "Compact folding crutches that fit easily in a bag or suitcase. Ideal for travel and storage. Quick-release folding mechanism.",
+    "category": "portable crutches",
+    "image": "https://images.unsplash.com/photo-1579154491364-9b7c8e5d7c8e?w=400",
+    "rating": {
+      "rate": 4.3,
+      "count": 89
+    },
+    "specifications": {
+      "material": "Aluminum Alloy",
+      "weight": "2 lbs per crutch",
+      "heightRange": "5'0\" - 6'0\"",
+      "weightCapacity": "250 lbs"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Heavy-Duty Bariatric Crutches",
+    "price": 119.99,
+    "description": "Extra-strong crutches designed for bariatric patients. Reinforced frame with wider hand grips and underarm pads for maximum support and comfort.",
+    "category": "bariatric crutches",
+    "image": "https://images.unsplash.com/photo-1582719366274-e8588d2cebac?w=400",
+    "rating": {
+      "rate": 4.7,
+      "count": 72
+    },
+    "specifications": {
+      "material": "Reinforced Steel",
+      "weight": "4 lbs per crutch",
+      "heightRange": "5'4\" - 6'8\"",
+      "weightCapacity": "500 lbs"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Youth Adjustable Crutches",
+    "price": 34.99,
+    "description": "Specially designed crutches for children and teenagers. Fun colors available, lightweight construction, and easy height adjustment.",
+    "category": "youth crutches",
+    "image": "https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?w=400",
+    "rating": {
+      "rate": 4.6,
+      "count": 134
+    },
+    "specifications": {
+      "material": "Aluminum",
+      "weight": "1.5 lbs per crutch",
+      "heightRange": "3'8\" - 5'2\"",
+      "weightCapacity": "180 lbs"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Platform Crutches with Forearm Support",
+    "price": 149.99,
+    "description": "Medical-grade platform crutches with full forearm support. Ideal for patients who cannot bear weight on their hands or wrists.",
+    "category": "platform crutches",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=400",
+    "rating": {
+      "rate": 4.9,
+      "count": 45
+    },
+    "specifications": {
+      "material": "Aluminum with Padded Platform",
+      "weight": "3.5 lbs per crutch",
+      "heightRange": "5'0\" - 6'4\"",
+      "weightCapacity": "300 lbs"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Smart Crutches with LED Lighting",
+    "price": 199.99,
+    "description": "Innovative crutches with built-in LED lights for nighttime visibility and safety. USB rechargeable with automatic motion sensors.",
+    "category": "smart crutches",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400",
+    "rating": {
+      "rate": 4.4,
+      "count": 67
+    },
+    "specifications": {
+      "material": "Aluminum with Electronics",
+      "weight": "2.8 lbs per crutch",
+      "heightRange": "5'0\" - 6'3\"",
+      "weightCapacity": "280 lbs"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Ergonomic Gel Pad Replacement Set",
+    "price": 19.99,
+    "description": "Premium gel padding replacement kit for underarm and hand grip areas. Compatible with most standard crutches. Reduces pressure and discomfort.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1584462506966-c6dd5c8f1f45?w=400",
+    "rating": {
+      "rate": 4.7,
+      "count": 312
+    },
+    "specifications": {
+      "material": "Medical-Grade Gel",
+      "weight": "0.3 lbs",
+      "compatibility": "Universal fit"
+    }
+  },
+  {
+    "id": 9,
+    "title": "All-Terrain Crutch Tips - Set of 4",
+    "price": 24.99,
+    "description": "Heavy-duty rubber tips designed for all surfaces including ice, snow, and rough terrain. Enhanced grip and stability in any condition.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400",
+    "rating": {
+      "rate": 4.5,
+      "count": 189
+    },
+    "specifications": {
+      "material": "Heavy-Duty Rubber",
+      "weight": "0.5 lbs set",
+      "compatibility": "Fits most crutches"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Spring-Assisted Forearm Crutches",
+    "price": 179.99,
+    "description": "Advanced forearm crutches with spring-assisted mechanism that reduces impact and strain. Ideal for active users and long-distance mobility.",
+    "category": "forearm crutches",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400",
+    "rating": {
+      "rate": 4.9,
+      "count": 98
+    },
+    "specifications": {
+      "material": "Carbon Fiber with Spring System",
+      "weight": "2.2 lbs per crutch",
+      "heightRange": "5'0\" - 6'6\"",
+      "weightCapacity": "320 lbs"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Waterproof Crutch Covers",
+    "price": 15.99,
+    "description": "Durable waterproof covers to protect your crutches from rain, snow, and moisture. Easy slip-on design with secure straps.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1585076799956-184ec95c492e?w=400",
+    "rating": {
+      "rate": 4.2,
+      "count": 156
+    },
+    "specifications": {
+      "material": "Waterproof Nylon",
+      "weight": "0.2 lbs",
+      "compatibility": "Universal fit"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Designer Fashion Crutches",
+    "price": 129.99,
+    "description": "Stylish crutches with customizable skins and patterns. Express yourself while staying mobile. Multiple design options available.",
+    "category": "fashion crutches",
+    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400",
+    "rating": {
+      "rate": 4.6,
+      "count": 223
+    },
+    "specifications": {
+      "material": "Aluminum with Custom Graphics",
+      "weight": "2.3 lbs per crutch",
+      "heightRange": "5'0\" - 6'2\"",
+      "weightCapacity": "280 lbs"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Medical Grade Underarm Crutches",
+    "price": 54.99,
+    "description": "Hospital-quality underarm crutches with anti-microbial coating. Designed for clinical use with enhanced durability and hygiene features.",
+    "category": "underarm crutches",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400",
+    "rating": {
+      "rate": 4.8,
+      "count": 167
+    },
+    "specifications": {
+      "material": "Medical Grade Aluminum",
+      "weight": "2.7 lbs per crutch",
+      "heightRange": "5'0\" - 6'4\"",
+      "weightCapacity": "320 lbs"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Arthritis-Friendly Ergonomic Crutches",
+    "price": 139.99,
+    "description": "Specially designed for users with arthritis or joint pain. Features extra-soft grips, ergonomic angles, and reduced pressure points.",
+    "category": "forearm crutches",
+    "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400",
+    "rating": {
+      "rate": 4.9,
+      "count": 92
+    },
+    "specifications": {
+      "material": "Lightweight Composite",
+      "weight": "1.9 lbs per crutch",
+      "heightRange": "4'10\" - 6'2\"",
+      "weightCapacity": "300 lbs"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Ultra-Compact Travel Crutches",
+    "price": 79.99,
+    "description": "Smallest folding crutches on the market. Fits in carry-on luggage. Perfect for frequent travelers who need reliable mobility support.",
+    "category": "portable crutches",
+    "image": "https://images.unsplash.com/photo-1565030098324-89ecf7ef38c7?w=400",
+    "rating": {
+      "rate": 4.4,
+      "count": 118
+    },
+    "specifications": {
+      "material": "Titanium Alloy",
+      "weight": "1.6 lbs per crutch",
+      "heightRange": "5'0\" - 6'0\"",
+      "weightCapacity": "275 lbs"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Crutch Storage Bag",
+    "price": 22.99,
+    "description": "Premium carrying bag for crutch storage and transport. Multiple pockets for accessories, adjustable shoulder strap, water-resistant material.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "rating": {
+      "rate": 4.3,
+      "count": 201
+    },
+    "specifications": {
+      "material": "Water-Resistant Polyester",
+      "weight": "0.8 lbs",
+      "compatibility": "Fits most crutches up to 60 inches"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Shock-Absorbing Crutch Tips",
+    "price": 29.99,
+    "description": "Advanced shock-absorbing tips that reduce impact by up to 40%. Extends crutch life and reduces arm fatigue. Set of 2.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1603218271732-b5ca5c4f7d5d?w=400",
+    "rating": {
+      "rate": 4.6,
+      "count": 275
+    },
+    "specifications": {
+      "material": "Advanced Polymer Composite",
+      "weight": "0.4 lbs set",
+      "compatibility": "Universal fit with adapters"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Pediatric Crutches with Fun Designs",
+    "price": 39.99,
+    "description": "Colorful crutches designed specifically for younger children. Features cartoon characters, adjustable height, and safety padding.",
+    "category": "youth crutches",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400",
+    "rating": {
+      "rate": 4.7,
+      "count": 143
+    },
+    "specifications": {
+      "material": "Lightweight Aluminum",
+      "weight": "1.3 lbs per crutch",
+      "heightRange": "3'0\" - 4'6\"",
+      "weightCapacity": "120 lbs"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Professional Athlete Crutches",
+    "price": 249.99,
+    "description": "High-performance crutches used by professional athletes. Carbon fiber construction, maximum energy return, and precision engineering.",
+    "category": "forearm crutches",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400",
+    "rating": {
+      "rate": 5.0,
+      "count": 64
+    },
+    "specifications": {
+      "material": "Premium Carbon Fiber",
+      "weight": "1.4 lbs per crutch",
+      "heightRange": "5'2\" - 6'8\"",
+      "weightCapacity": "400 lbs"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Comfort Grip Handle Covers",
+    "price": 12.99,
+    "description": "Soft memory foam handle covers that reduce hand fatigue and prevent blisters. Machine washable, fits most crutch handles.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400",
+    "rating": {
+      "rate": 4.4,
+      "count": 388
+    },
+    "specifications": {
+      "material": "Memory Foam with Cotton Cover",
+      "weight": "0.1 lbs",
+      "compatibility": "Universal fit"
+    }
+  }
+]
