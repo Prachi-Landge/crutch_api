@@ -2,8 +2,8 @@
   {
     "id": 1,
     "title": "Smart Crutch - Base Model (Affordable Utility)",
-    "price": 89.99,
-    "description": "A reliable and affordable smart crutch with essential support features. Includes weight sensor with height optimization, PPG heart rate monitoring, fall detection, shock absorber, and integrated headlight & tail light for safe movement.",
+    "price": 2500,
+    "description": "A reliable and affordable smart crutch with essential support features. Includes weight sensor with height optimization, PPG heart rate monitoring, fall detection, shock absorber, and integrated headlight & tail light for safe movement. ",
     "category": "smart crutch",
     "image": "https://crutch-api.onrender.com/img/1.jpeg",
     "rating": {
@@ -25,7 +25,7 @@
   {
     "id": 2,
     "title": "Smart Crutch - Mid Model (Smart & Useful)",
-    "price": 149.99,
+    "price": 4200,
     "description": "An advanced smart crutch featuring dual-chamber LED, auto-light using LDR, a 1.9-inch non-touch display, and three tactile navigation buttons. Displays real-time vitals and posture monitoring for enhanced rehabilitation.",
     "category": "smart crutch",
     "image": "https://crutch-api.onrender.com/img/2.jpeg",
@@ -48,12 +48,12 @@
   {
     "id": 3,
     "title": "Smart Crutch - Top Model (Premium)",
-    "price": 229.99,
+    "price": 5900,
     "description": "Premium flagship variant with a 2.8-inch touchscreen, soft-touch cushioning, foldable mini-chair, and kinetic charger generator. Features advanced UI dashboards and high-performance dual-chamber LED for professional & field use.",
     "category": "smart crutch",
     "image": "https://crutch-api.onrender.com/img/3.jpeg",
     "rating": {
-      "rate": 4.8,
+      "rate": 4.9,
       "count": 310
     },
     "specifications": {
@@ -72,12 +72,12 @@
   {
     "id": 4,
     "title": "Smart Crutch - Custom Model (Flexible Configuration)",
-    "price": 499,
+    "price": 7000,
     "description": "Customizable smart crutch variant where users can select any combination of features from all models. Fully tailored design for personal, medical, or organizational needs.",
     "category": "smart crutch",
     "image": "https://crutch-api.onrender.com/img/4.jpeg",
     "rating": {
-      "rate": 4.7,
+      "rate": 5.0,
       "count": 150
     },
     "specifications": {
@@ -94,9 +94,9 @@
   {
   "id": 5,
   "title": "Crutch Feet Cap Rubber",
-  "price": 9.99,
+  "price": 99,
   "description": "Durable anti-slip rubber crutch feet cap designed to improve stability and reduce impact shocks. Provides strong floor grip for safe indoor and outdoor use.",
-  "category": "men",
+  "category": "electronics",
   "image": "https://crutch-api.onrender.com/img/5.jpeg",
   "rating": {
     "rate": 4.5,
@@ -115,7 +115,7 @@
 {
   "id": 6,
   "title": "ESP32 Module with USB Cable",
-  "price": 14.99,
+  "price": 1499,
   "description": "High-performance ESP32 microcontroller with integrated WiFi & Bluetooth. Includes USB cable for programming—ideal for smart crutch electronics or IoT upgrades.",
   "category": "electronics",
   "image": "https://crutch-api.onrender.com/img/6.jpeg",
@@ -132,9 +132,9 @@
 {
   "id": 7,
   "title": "Forearm Crutch Bag (Small)",
-  "price": 12.99,
+  "price": 999,
   "description": "Compact storage pouch for forearm crutches. Ideal for holding keys, phone, wallet, or medication. Simple strap attachment for convenience.",
-  "category": "men",
+  "category": "electronics",
   "image": "https://crutch-api.onrender.com/img/7.jpeg",
   "rating": {
     "rate": 4.3,
@@ -153,9 +153,9 @@
 {
   "id": 8,
   "title": "Forearm Crutch Bag (Large)",
-  "price": 18.99,
+  "price": 1199,
   "description": "Large multi-pocket forearm crutch storage bag. Ideal for carrying personal essentials during mobility. Strong Velcro straps for secure mounting.",
-  "category": "men",
+  "category": "electronics",
   "image": "https://crutch-api.onrender.com/img/8.jpeg",
   "rating": {
     "rate": 4.6,
@@ -174,9 +174,9 @@
 {
   "id": 9,
   "title": "Crutch Cuff Bundle",
-  "price": 24.99,
+  "price": 299,
   "description": "Comfortable crutch cuff set designed for forearm crutches. Provides improved grip, arm support, and stability during walking.",
-  "category": "women",
+  "category": "electronics",
   "image": "https://crutch-api.onrender.com/img/9.jpeg",
   "rating": {
     "rate": 4.4,
@@ -194,9 +194,9 @@
 {
   "id": 10,
   "title": "Forearm Crutch Pad",
-  "price": 11.99,
+  "price": 199,
   "description": "Soft, ergonomic padding for forearm crutches. Reduces pressure on arms and improves comfort over long walking durations.",
-  "category": "women",
+  "category": "electronics",
   "image": "https://crutch-api.onrender.com/img/10.jpeg",
   "rating": {
     "rate": 4.5,
@@ -215,9 +215,9 @@
   {
     "id": 11,
     "title": "Waterproof Crutch Covers",
-    "price": 15.99,
+    "price": 159,
     "description": "Durable waterproof covers to protect your crutches from rain, snow, and moisture. Easy slip-on design with secure straps.",
-    "category": "men",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1585076799956-184ec95c492e?w=400",
     "rating": {
       "rate": 4.2,
@@ -232,9 +232,9 @@
   {
     "id": 12,
     "title": "Designer Fashion Crutches",
-    "price": 129.99,
+    "price": 1299,
     "description": "Stylish crutches with customizable skins and patterns. Express yourself while staying mobile. Multiple design options available.",
-    "category": "women",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400",
     "rating": {
       "rate": 4.6,
@@ -250,7 +250,7 @@
   {
     "id": 13,
     "title": "Medical Grade Underarm Crutches",
-    "price": 54.99,
+    "price": 549,
     "description": "Hospital-quality underarm crutches with anti-microbial coating. Designed for clinical use with enhanced durability and hygiene features.",
     "category": "electronics",
     "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400",
@@ -268,7 +268,7 @@
   {
     "id": 14,
     "title": "Arthritis-Friendly Ergonomic Crutches",
-    "price": 139.99,
+    "price": 1399,
     "description": "Specially designed for users with arthritis or joint pain. Features extra-soft grips, ergonomic angles, and reduced pressure points.",
     "category": "electronics",
     "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400",
@@ -286,7 +286,7 @@
   {
     "id": 15,
     "title": "Ultra-Compact Travel Crutches",
-    "price": 79.99,
+    "price": 799,
     "description": "Smallest folding crutches on the market. Fits in carry-on luggage. Perfect for frequent travelers who need reliable mobility support.",
     "category": "electronics",
     "image": "https://images.unsplash.com/photo-1565030098324-89ecf7ef38c7?w=400",
@@ -304,9 +304,9 @@
   {
     "id": 16,
     "title": "Crutch Storage Bag",
-    "price": 22.99,
+    "price": 229,
     "description": "Premium carrying bag for crutch storage and transport. Multiple pockets for accessories, adjustable shoulder strap, water-resistant material.",
-    "category": "men",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
     "rating": {
       "rate": 4.3,
@@ -321,7 +321,7 @@
   {
     "id": 17,
     "title": "Shock-Absorbing Crutch Tips",
-    "price": 29.99,
+    "price": 299,
     "description": "Advanced shock-absorbing tips that reduce impact by up to 40%. Extends crutch life and reduces arm fatigue. Set of 2.",
     "category": "women",
     "image": "https://images.unsplash.com/photo-1603218271732-b5ca5c4f7d5d?w=400",
@@ -338,7 +338,7 @@
   {
     "id": 18,
     "title": "Pediatric Crutches with Fun Designs",
-    "price": 39.99,
+    "price": 399,
     "description": "Colorful crutches designed specifically for younger children. Features cartoon characters, adjustable height, and safety padding.",
     "category": "electronics",
     "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400",
@@ -356,9 +356,9 @@
   {
     "id": 19,
     "title": "Professional Athlete Crutches",
-    "price": 249.99,
+    "price": 2499,
     "description": "High-performance crutches used by professional athletes. Carbon fiber construction, maximum energy return, and precision engineering.",
-    "category": "men",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400",
     "rating": {
       "rate": 5.0,
@@ -374,9 +374,9 @@
   {
     "id": 20,
     "title": "Comfort Grip Handle Covers",
-    "price": 12.99,
+    "price": 129,
     "description": "Soft memory foam handle covers that reduce hand fatigue and prevent blisters. Machine washable, fits most crutch handles.",
-    "category": "accessories",
+    "category": "electronics",
     "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400",
     "rating": {
       "rate": 4.4,
