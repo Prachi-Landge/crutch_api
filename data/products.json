@@ -234,7 +234,7 @@
     "title": "Designer Fashion Crutches",
     "price": 1299,
     "description": "Stylish crutches with customizable skins and patterns. Express yourself while staying mobile. Multiple design options available.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400",
     "rating": {
       "rate": 4.6,
@@ -252,7 +252,7 @@
     "title": "Medical Grade Underarm Crutches",
     "price": 549,
     "description": "Hospital-quality underarm crutches with anti-microbial coating. Designed for clinical use with enhanced durability and hygiene features.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400",
     "rating": {
       "rate": 4.8,
@@ -270,7 +270,7 @@
     "title": "Arthritis-Friendly Ergonomic Crutches",
     "price": 1399,
     "description": "Specially designed for users with arthritis or joint pain. Features extra-soft grips, ergonomic angles, and reduced pressure points.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400",
     "rating": {
       "rate": 4.9,
@@ -288,7 +288,7 @@
     "title": "Ultra-Compact Travel Crutches",
     "price": 799,
     "description": "Smallest folding crutches on the market. Fits in carry-on luggage. Perfect for frequent travelers who need reliable mobility support.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1565030098324-89ecf7ef38c7?w=400",
     "rating": {
       "rate": 4.4,
@@ -306,7 +306,7 @@
     "title": "Crutch Storage Bag",
     "price": 229,
     "description": "Premium carrying bag for crutch storage and transport. Multiple pockets for accessories, adjustable shoulder strap, water-resistant material.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
     "rating": {
       "rate": 4.3,
@@ -340,7 +340,7 @@
     "title": "Pediatric Crutches with Fun Designs",
     "price": 399,
     "description": "Colorful crutches designed specifically for younger children. Features cartoon characters, adjustable height, and safety padding.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400",
     "rating": {
       "rate": 4.7,
@@ -358,7 +358,7 @@
     "title": "Professional Athlete Crutches",
     "price": 2499,
     "description": "High-performance crutches used by professional athletes. Carbon fiber construction, maximum energy return, and precision engineering.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400",
     "rating": {
       "rate": 5.0,
@@ -376,7 +376,7 @@
     "title": "Comfort Grip Handle Covers",
     "price": 129,
     "description": "Soft memory foam handle covers that reduce hand fatigue and prevent blisters. Machine washable, fits most crutch handles.",
-    "category": "electronics",
+    "category": "women",
     "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400",
     "rating": {
       "rate": 4.4,
@@ -387,5 +387,8 @@
       "weight": "0.1 lbs",
       "compatibility": "Universal fit"
     }
+    
   }
+
+  
 ]
