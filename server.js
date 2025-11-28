@@ -4,7 +4,7 @@ const path = require('path');   // 👉 ADD THIS
 require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 300;
 
 // Middleware
 app.use(cors());

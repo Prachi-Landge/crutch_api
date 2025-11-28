@@ -4,7 +4,7 @@
     "title": "Smart Crutch - Base Model (Affordable Utility)",
     "price": 2500,
     "description": "A reliable and affordable smart crutch with essential support features. Includes weight sensor with height optimization, PPG heart rate monitoring, fall detection, shock absorber, and integrated headlight & tail light for safe movement. ",
-    "category": "smart crutch",
+    "category": "Smart Crutch",
     "image": "https://crutch-api.onrender.com/img/1.jpeg",
     "rating": {
       "rate": 4.4,
@@ -27,7 +27,7 @@
     "title": "Smart Crutch - Mid Model (Smart & Useful)",
     "price": 4200,
     "description": "An advanced smart crutch featuring dual-chamber LED, auto-light using LDR, a 1.9-inch non-touch display, and three tactile navigation buttons. Displays real-time vitals and posture monitoring for enhanced rehabilitation.",
-    "category": "smart crutch",
+    "category": "Smart Crutch",
     "image": "https://crutch-api.onrender.com/img/2.jpeg",
     "rating": {
       "rate": 4.6,
@@ -217,8 +217,8 @@
     "title": "Waterproof Crutch Covers",
     "price": 159,
     "description": "Durable waterproof covers to protect your crutches from rain, snow, and moisture. Easy slip-on design with secure straps.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1585076799956-184ec95c492e?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/11.jpeg",
     "rating": {
       "rate": 4.2,
       "count": 156
@@ -234,8 +234,8 @@
     "title": "Designer Fashion Crutches",
     "price": 1299,
     "description": "Stylish crutches with customizable skins and patterns. Express yourself while staying mobile. Multiple design options available.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/12.jpeg",
     "rating": {
       "rate": 4.6,
       "count": 223
@@ -252,8 +252,8 @@
     "title": "Medical Grade Underarm Crutches",
     "price": 549,
     "description": "Hospital-quality underarm crutches with anti-microbial coating. Designed for clinical use with enhanced durability and hygiene features.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/13.jpeg",
     "rating": {
       "rate": 4.8,
       "count": 167
@@ -270,8 +270,8 @@
     "title": "Arthritis-Friendly Ergonomic Crutches",
     "price": 1399,
     "description": "Specially designed for users with arthritis or joint pain. Features extra-soft grips, ergonomic angles, and reduced pressure points.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/14.jpeg",
     "rating": {
       "rate": 4.9,
       "count": 92
@@ -288,8 +288,8 @@
     "title": "Ultra-Compact Travel Crutches",
     "price": 799,
     "description": "Smallest folding crutches on the market. Fits in carry-on luggage. Perfect for frequent travelers who need reliable mobility support.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1565030098324-89ecf7ef38c7?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/15.jpeg",
     "rating": {
       "rate": 4.4,
       "count": 118
@@ -306,8 +306,8 @@
     "title": "Crutch Storage Bag",
     "price": 229,
     "description": "Premium carrying bag for crutch storage and transport. Multiple pockets for accessories, adjustable shoulder strap, water-resistant material.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/16.jpeg",
     "rating": {
       "rate": 4.3,
       "count": 201
@@ -323,8 +323,8 @@
     "title": "Shock-Absorbing Crutch Tips",
     "price": 299,
     "description": "Advanced shock-absorbing tips that reduce impact by up to 40%. Extends crutch life and reduces arm fatigue. Set of 2.",
-    "category": "women",
-    "image": "https://images.unsplash.com/photo-1603218271732-b5ca5c4f7d5d?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/17.jpeg",
     "rating": {
       "rate": 4.6,
       "count": 275
@@ -340,8 +340,8 @@
     "title": "Pediatric Crutches with Fun Designs",
     "price": 399,
     "description": "Colorful crutches designed specifically for younger children. Features cartoon characters, adjustable height, and safety padding.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/18.jpeg",
     "rating": {
       "rate": 4.7,
       "count": 143
@@ -358,8 +358,8 @@
     "title": "Professional Athlete Crutches",
     "price": 2499,
     "description": "High-performance crutches used by professional athletes. Carbon fiber construction, maximum energy return, and precision engineering.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/19.jpeg",
     "rating": {
       "rate": 5.0,
       "count": 64
@@ -376,8 +376,8 @@
     "title": "Comfort Grip Handle Covers",
     "price": 129,
     "description": "Soft memory foam handle covers that reduce hand fatigue and prevent blisters. Machine washable, fits most crutch handles.",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400",
+    "category": "Accessories",
+    "image": "https://crutch-api.onrender.com/img/20.jpeg",
     "rating": {
       "rate": 4.4,
       "count": 388
@@ -393,7 +393,7 @@
     "title": "Orthopedic Gel Heel Cushion Inserts",
     "price": 249,
     "description": "Premium gel heel cushions that provide superior shock absorption and pain relief. Ideal for plantar fasciitis, heel spurs, and general foot fatigue.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1603217039863-aa62f8e98d9e?w=400",
     "rating": {
       "rate": 4.6,
@@ -411,7 +411,7 @@
     "title": "Arch Support Compression Socks",
     "price": 399,
     "description": "Therapeutic compression socks with built-in arch support. Reduces swelling, improves circulation, and provides all-day comfort for foot and ankle pain.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=400",
     "rating": {
       "rate": 4.7,
@@ -429,7 +429,7 @@
     "title": "Bunion Corrector and Pain Relief Kit",
     "price": 599,
     "description": "Complete bunion care kit with corrector splints, toe separators, and gel cushions. Provides non-surgical bunion correction and immediate pain relief.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400",
     "rating": {
       "rate": 4.4,
@@ -447,7 +447,7 @@
     "title": "Plantar Fasciitis Night Splint",
     "price": 899,
     "description": "Adjustable dorsiflexion night splint that gently stretches the plantar fascia while you sleep. Clinically proven to reduce morning heel pain.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1612828964362-4b0de75d0d61?w=400",
     "rating": {
       "rate": 4.8,
@@ -465,7 +465,7 @@
     "title": "Memory Foam Orthotic Insoles",
     "price": 549,
     "description": "Full-length memory foam insoles with arch support and heel cup. Provides superior cushioning and proper foot alignment for all-day comfort.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=400",
     "rating": {
       "rate": 4.5,
@@ -483,7 +483,7 @@
     "title": "Toe Separator and Straightener Set",
     "price": 299,
     "description": "Soft silicone toe spacers that realign toes, reduce friction, and relieve pain from bunions, hammertoes, and overlapping toes.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=400",
     "rating": {
       "rate": 4.3,
@@ -501,7 +501,7 @@
     "title": "Electric Foot Massager with Heat",
     "price": 2499,
     "description": "Professional foot massager with kneading, rolling, and heat therapy. Features multiple intensity levels and targeted pressure points for ultimate relaxation.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=400",
     "rating": {
       "rate": 4.9,
@@ -519,7 +519,7 @@
     "title": "Diabetic Neuropathy Socks - 3 Pack",
     "price": 799,
     "description": "Seamless diabetic socks with non-binding top and extra padding. Moisture-wicking fabric prevents blisters and promotes healthy circulation.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1626497764746-6dc36546d053?w=400",
     "rating": {
       "rate": 4.7,
@@ -537,7 +537,7 @@
     "title": "Metatarsal Pads and Ball of Foot Cushions",
     "price": 349,
     "description": "Gel metatarsal pads that redistribute pressure and relieve pain in the ball of the foot. Perfect for high heels, standing all day, or Morton's neuroma.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1562184552-b5b8f0e595f0?w=400",
     "rating": {
       "rate": 4.4,
@@ -555,7 +555,7 @@
     "title": "Ankle Support Brace with Compression",
     "price": 649,
     "description": "Adjustable ankle brace with compression straps. Provides stability and pain relief for sprains, arthritis, and post-injury recovery.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1598662957477-8d2e027eb97f?w=400",
     "rating": {
       "rate": 4.6,
@@ -573,7 +573,7 @@
     "title": "Callus Remover Electric Foot File",
     "price": 1299,
     "description": "Professional electric foot file with diamond crystals. Safely removes calluses, dead skin, and rough patches. USB rechargeable with 3 speed settings.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=400",
     "rating": {
       "rate": 4.5,
@@ -591,7 +591,7 @@
     "title": "Heel Protector Cushion for Bed Sores",
     "price": 899,
     "description": "Medical-grade heel protectors that prevent and heal pressure sores. Ideal for bedridden patients, post-surgery recovery, and elderly care.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1576671081837-49000212a370?w=400",
     "rating": {
       "rate": 4.8,
@@ -609,7 +609,7 @@
     "title": "Copper Compression Foot Sleeves",
     "price": 499,
     "description": "Copper-infused compression sleeves for arch support and plantar fasciitis relief. Provides targeted compression without restricting toe movement.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1556906918-4b0de75d0d61?w=400",
     "rating": {
       "rate": 4.5,
@@ -627,7 +627,7 @@
     "title": "Toenail Fungus Treatment Cream",
     "price": 699,
     "description": "Advanced antifungal cream with tea tree oil and undecylenic acid. Treats toenail fungus, athlete's foot, and prevents recurrence.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
     "rating": {
       "rate": 4.3,
@@ -645,7 +645,7 @@
     "title": "Acupressure Foot Massage Mat",
     "price": 599,
     "description": "Therapeutic acupressure mat with thousands of pressure points. Stimulates circulation, relieves stress, and reduces foot pain naturally.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
     "rating": {
       "rate": 4.4,
@@ -663,7 +663,7 @@
     "title": "Cracked Heel Repair Cream",
     "price": 449,
     "description": "Intensive moisturizing cream with urea and shea butter. Heals severely cracked heels and rough skin. Visible results in 3-5 days.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=400",
     "rating": {
       "rate": 4.6,
@@ -681,7 +681,7 @@
     "title": "Hammertoe Correction Pads",
     "price": 349,
     "description": "Soft gel cushions that straighten hammertoes and relieve pain. Prevents corns, blisters, and toe friction. Can be worn with any shoes.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1612792410112-3850a0b97152?w=400",
     "rating": {
       "rate": 4.2,
@@ -699,7 +699,7 @@
     "title": "Foot Spa Bath Massager with Bubbles",
     "price": 1899,
     "description": "Heated foot spa with bubble massage, vibration, and infrared therapy. Includes massage rollers and pumice stone for complete foot care.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?w=400",
     "rating": {
       "rate": 4.7,
@@ -717,7 +717,7 @@
     "title": "Blister Prevention Tape for Athletes",
     "price": 299,
     "description": "Medical-grade adhesive tape that prevents blisters during sports and long walks. Water-resistant, breathable, and stays in place all day.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1579364046732-c21b5e2d36b7?w=400",
     "rating": {
       "rate": 4.5,
@@ -735,7 +735,7 @@
     "title": "Orthopedic Sandals with Arch Support",
     "price": 1499,
     "description": "Ergonomic recovery sandals with contoured footbed and arch support. Perfect for post-surgery, plantar fasciitis, and all-day comfort.",
-    "category": "medicare",
+    "category": "MediCare",
     "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=400",
     "rating": {
       "rate": 4.8,
